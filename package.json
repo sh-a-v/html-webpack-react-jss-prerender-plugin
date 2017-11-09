@@ -1,0 +1,19 @@
+{
+  "name": "react-jss-prerender-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh-a-v/react-jss-prerender-html-webpack-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sh-a-v/react-jss-prerender-html-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/sh-a-v/react-jss-prerender-html-webpack-plugin#readme"
+}
