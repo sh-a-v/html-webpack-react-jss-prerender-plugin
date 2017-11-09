@@ -1,1 +1,1 @@
-# html-webpack-react-jss-prerender-plugin
+# react-jss-prerender-html-webpack-plugin
